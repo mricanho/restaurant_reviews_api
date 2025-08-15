@@ -41,3 +41,6 @@ group :development, :test do
 end
 
 
+gem "rack-cors"
+gem "fast_jsonapi"
+gem "dotenv-rails"
